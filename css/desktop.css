@@ -1,0 +1,131 @@
+body {
+    background-color: #00005d;
+
+    font-family: Verdana, Arial, sans-serif;
+}
+
+#wrapper {
+    margin-left: auto;
+
+    margin-right: auto;
+
+    min-width: 980px;
+
+    background-color: #b3c7e6;
+
+    color: #000066;
+
+}
+
+#title {
+    background-color: #869dc7;
+
+    color: #00005d;
+
+    font-size: 150%;
+
+    padding: 10px 10px 10px 155px;
+
+    background-repeat: no-repeat;
+
+    background-image: url(../images/lighthouselogo.jpg);
+
+    height: 130px;
+}
+
+h1 {
+    font-style: italic;
+}
+
+nav {
+
+    /* width: 150px; */
+
+    font-weight: bold;
+
+    letter-spacing: 0.1em;
+}
+nav ul 
+{
+    list-style-type: none;
+
+    margin: 0;
+
+    padding: 0;
+}
+
+nav a 
+{
+    text-decoration: none;
+
+    padding: 20px;
+
+    display: block;
+
+    background-color: lightpink;
+
+    border-bottom: 1px solid #ffffff;
+}
+
+nav a:link 
+{
+    color: #ffffff;
+}
+
+nav a:visited 
+{
+    color: #eaeaea;
+}
+
+nav a:hover 
+{
+    color: #869dc7;
+
+    background-color: #eaeaea;
+}
+.display {
+    width: auto;
+    display: flex;
+}
+
+.picture {
+
+    margin-left: 3rem;
+}
+
+
+#main {
+    background-color: #ffffff;
+
+    color: #000000;
+
+    padding: 10px 20px;
+
+    overflow: auto;
+
+    display: flex;
+
+}
+
+h2 
+{
+    color: #869dc7;
+
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    font-size: 70%;
+
+    text-align: center;
+
+    padding: 10px;
+
+    background-color: #869dc7;
+
+    clear: both;
+}
+
+
+
+
